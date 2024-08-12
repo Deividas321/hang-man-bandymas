@@ -100,6 +100,11 @@ body {
   transform: rotate(45deg);
   display: block;
 }
+.hangman-image {
+  margin-top: 20px; /* Adjust spacing as needed */
+  width: 150px; /* Adjust size as necessary */
+  height: auto; /* Maintain aspect ratio */
+}
 
 .left-leg {
   top: 170px; 
