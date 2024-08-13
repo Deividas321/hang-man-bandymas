@@ -5,8 +5,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Hangman />
       <img src="/images/kartuves.jpg" alt="" />
+      <Hangman />
+      
     </div>
   );
 }
